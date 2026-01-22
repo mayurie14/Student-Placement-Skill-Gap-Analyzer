@@ -24,3 +24,6 @@ This project analyzes student placement data to identify skill gaps between plac
    `pip install pandas matplotlib`
 2. Run the script  
    `python placement_analysis.py`
+   
+ ## 📌 Conclusion
+This project demonstrates how data analysis can be used to identify skill gaps and improve student employability through data-driven insights.
